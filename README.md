@@ -1,6 +1,4 @@
-### Hi there 👋
-
-###Talk is cheap. Show me the code." - Linus Torvalds 
+### 👋 Talk is cheap. Show me the code." - Linus Torvalds 
 
 - 🌱 I’m currently learning AI, LLM
 - 👯 I’m looking to collaborate on AI, LLM
