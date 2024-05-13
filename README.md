@@ -2,6 +2,8 @@
 
 Some self-righteous perceptions actually lead us into pitfalls. 
 
+There are many paradoxes in life.
+
 Just do it, know it and update it.
 
 - 🌱 I’m currently learning AI, LLM
