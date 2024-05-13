@@ -11,3 +11,6 @@ Just do it, know it and update it.
 - 💬 Ask me about studying in CMU
 - 📫 How to reach me: sunningily@hotmail.com
 - ⚡ Fun fact: everything
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z3cjksFFKAQ/0.jpg)](https://www.youtube.com/watch?v=z3cjksFFKAQ)
