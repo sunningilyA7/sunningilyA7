@@ -1,5 +1,7 @@
 ### 👋 Talk is cheap. Show me the code  - Linus Torvalds 
 
+Some self-righteous perceptions actually lead us into pitfalls.
+
 - 🌱 I’m currently learning AI, LLM
 - 👯 I’m looking to collaborate on AI, LLM
 - 💬 Ask me about studying in CMU
