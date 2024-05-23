@@ -7,7 +7,7 @@ There are many paradoxes in life.
 Just do it, know it and update it.
 
 - 🌱 I’m currently learning AI, LLM
-- 👯 I’m looking to collaborate on 'Using AI/LLM to do data science', improve LLM's inference ability
+- 👯 I’m looking to collaborate on 'Using AI/LLM to do data science', improving LLM's inference ability
 - 💬 Ask me about studying in CMU
 - 📫 How to reach me: sunningily@hotmail.com
 - ⚡ Fun fact: everything
