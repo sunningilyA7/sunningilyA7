@@ -6,7 +6,7 @@ There are many paradoxes in life.
 
 Just do it, know it and update it.
 
-- 🌱 I’m currently learning AI, LLM
+- 🌱 I’m currently learning AI, LLM, Causal Language Modeling(CLM)
 - 👯 I’m looking to collaborate on 'Using AI/LLM to do data science', improving LLM's inference ability, establishing Agent-BI LLM system
 - 💬 Ask me about studying in CMU
 - 🙆‍♀ Automatic Speech Recognition, kaggle competition top 7/113, frame level (MLPS) top 2/220 （CMU 11785 course, 2024 )
